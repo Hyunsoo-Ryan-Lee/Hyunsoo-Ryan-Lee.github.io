@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "Home"
+    url: https://Hyunsoo-Ryan-Lee.github.io/
+
+  - title: "About"
+    url: /about/
+
+  # - title: "GitHub"
+  #   url: https://github.com/Hyunsoo-Ryan-Lee
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "AWS"
+    url: /categories/AWS/
+  - title: "PYTHON"
+    url: /categories/PYTHON/
+  - title: "SCRIPT"
+    url: /categories/SCRIPT/
+  - title: "DATA ANAL"
+    url: /categories/DATA/

@@ -8,7 +8,7 @@ comments: false
 
   천재교육에서 데이터 엔지니어링 및 분석, AWS 인프라 구축 업무를 맡고 있습니다.
 <div>
-    <img src="/assets/images/97360024.JPG" alt="" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/profile.JPG" alt="" width="70%" min-width="700px" itemprop="image">
 </div>
 
 
